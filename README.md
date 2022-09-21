@@ -26,7 +26,7 @@ In this aplication you can download an quotes image, save an image in your app a
 - Download nad Share Quotes
 
 
-### User Side Screenshots
+### App Preview
 
 <p float="center">
 
