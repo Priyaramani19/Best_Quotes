@@ -38,6 +38,8 @@ In this aplication you can download an quotes image, save an image in your app a
 
 </p>
 
+<br>
+
 ## Laungage, Libraries and tools 🛠
 
 Part of Android Jetpack 🚀
